@@ -1,0 +1,33 @@
+@charset "utf-8";
+html,body{margin:0px;padding:0px}
+body{font: 0.8em normal Calibri, Tahoma, Verdana, Arial, Helvetica, sans-serif;height: 100%;line-height: 1.5em;background:#ccccff;}
+a {text-decoration:none;color:#00f;}
+a:hover{text-decoration:underline;color:#f00}
+a.lnormal{font-weight:normal;}
+a img{border:none}
+#header{margin:20px auto;text-align:center;font-size:10pt;background:#f33;color:#fff}
+#userinfo{text-align:right;padding:3px 20px 3px;background:#efefef}
+#footer{text-align:center;font-size:8pt}
+#login{padding:20px;width:520px;margin:0px auto;border:2px solid #ccc;}
+#badan{background:#fff;border:1px solid #66c}
+#fcgl input[type=text]{width:300px}
+#fcgl input[type=text].narr{width:200px}
+#fast input[type=text].narr{width:50px}
+#fast input[type=text].narr2{width:90px}
+#fast input[type=text] {width:200px},#fast textarea {width:500px}
+#fcgl td, #fast td{padding-left:10px}
+.odd{background:#fff}
+.even{background:#efefef}
+.subtabel{padding:10px;border-bottom:1.5px solid #666}
+.keterangan{font-size:8.5pt;color:#666;border-bottom:1px solid #ccc}
+.subtabel table{border:1px solid #999}
+.tabel{margin:5px;font-size:8pt}
+.tabel th{background:#aaa;border:1px solid #666;padding:2px;}
+.tabel td{border:1px solid #aaa;padding:2px;}
+.tabel .even{background:#fff}
+.tabel .odd{background:#efefef}
+.tabel .hijau{background:#ccffcc;}
+.tabel .merah{background:#ffcccc;}
+.subtabel select{width:110px;}
+.subtabel .odd{background:#efefef}
+.subtabel .even{background:#ccc}
